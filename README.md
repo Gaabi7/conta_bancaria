@@ -4,5 +4,5 @@ Este projeto Java simula uma conta bancária simples. Ele utiliza princípios b�
 
 # Arquivos 
 
-ContaBancaria.java: classe que representa duas contas bancárias, com atributos privados, métodos de acesso e operações como depósito e saque.
+ContaBancaria.java: classe que representa duas contas bancárias, com atributos privados, métodos de acesso e operações como depósito e saque.  
 App.java: classe com o método main, responsável por testar a criação das contas, depósitos e saques.
